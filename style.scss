@@ -1,0 +1,64 @@
+.main-app {
+    display: flex;
+    .navbar {
+        display: flex;
+        width: 200vh;
+        right: 12vh;
+        .name-and-icon {
+            .icon {
+                img {
+                }
+            }
+            .name {
+            }
+        }
+        .button-and-profile {
+            .button-main {
+            }
+            .profile {
+            }
+        }
+    }
+    .content-app {
+        .content-left {
+            .principal-title {
+            }
+            .display {
+                img {
+                }
+            }
+            .itens {
+                .itens-box {
+                }
+            }
+            .pay-forms {
+                .pay-form {
+                }
+                .card-credit {
+                }
+                .pix {
+                }
+                .money {
+                }
+            }
+        }
+        .content-right {
+            .content-right-box {
+            }
+            img {
+            }
+            .sale {
+            }
+            .control {
+            }
+            .registration {
+            }
+            .report {
+            }
+            .movimentation {
+            }
+            .configuration {
+            }
+        }
+    }
+}

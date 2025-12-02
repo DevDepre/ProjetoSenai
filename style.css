@@ -1,0 +1,8 @@
+.main-app {
+  display: flex;
+}
+.main-app .navbar {
+  display: flex;
+  width: 200vh;
+  right: 12vh;
+}/*# sourceMappingURL=style.css.map */
